@@ -101,12 +101,12 @@
 </a>
 </td>
 <td width="100" align="center">
-<a href="https://github.com/Hyochan02">
+<a href="https://github.com/victor8687">
 <img src="https://github.com/user-attachments/assets/a35cbd41-8faf-41d4-aea1-6c4fb87580d7" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
-<a href="https://github.com/victor8687">
+<a href="https://github.com/Hyochan02">
 <img src="https://github.com/user-attachments/assets/d44656b4-71aa-4af4-911c-9ff79f2da479" width="60" height="60">
 </a>
 </td>
