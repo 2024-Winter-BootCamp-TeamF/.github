@@ -1,30 +1,62 @@
----
+### <p align = center>2024 Techeer Winter BootCamp <p>
+<div align=center>
+<br> <image width=50%, height=50%, src="https://github.com/user-attachments/assets/5ff84715-be63-4074-b8ba-93731645ae5b">
 
-### 📌 **내 교수님은 AI**  
-📅 **프로젝트 기간:** 2024.12.27 ~ 2025.02.01  
-🏆 **2024 Techeer SiliconValley Summer Bootcamp 5주 프로젝트**  
 
----
+<br>💫 내 교수님은 AI 💫
+##### URL : https://
+</div>
 
-## 🚀 Introduction  
-**"내 교수님은 AI"**는 강의 자료 기반 학습 보조 웹 서비스로, 사용자의 학습을 돕기 위해 다양한 AI 기능을 제공합니다.  
-📌 **주요 기능:**  
-- 강의자료 요약 생성  
-- 연습문제 제작 및 해설 제공  
-- 맞춤형 학습 추천  
+## 🔮 Table of Contents
+- [Medium](#-Medium)
+- [Demo](#-Demo)
+- [System Architechture](#-System-Architechture)
+- [Tech stack](#-Tech-stack)
+- [ERD](#-Erd)
+- [MongoDB](#-MongoDB)
+- [API](#-API)
+- [Flow Chart](#-Flow-Chart)
+- [Sequence Diagram](#-Sequence-Diagram)
+- [Monitoring](#-Monitoring)
+- [File Directory](#-file-directory)
+- [Directory Structure](#-Directory-Structure)
+- [How to Start](#-How-to-Start)
+- [Member](#-Member)
 
----
 
-## 🎬 Demo  
 
-| 페이지 | 기능 설명 |
-|--------|---------------------------------------------|
-| **온보딩 페이지** | 서비스 소개 및 계정 생성 |
-| **강의자료 업로드 & 요약** | 강의자료(PDF) 업로드 후 Topic 기반 요약 생성 |
-| **문제 생성 & 채점** | 기출문제 기반 유사 문제 생성 및 자동 채점 |
-| **해설 & 오답 노트** | 틀린 문제 분석 및 추가 학습 자료 제공 |
+## 📝 Medium 
+https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90%EC%88%98%EB%8B%98%EC%9D%80-ai-9a2b7d62be91
+</br>
 
----
+## ✨ Demo
+
+<table width="1000">
+    <tr>
+        <th style="text-align: center; padding: 0; margin: 0;">온보딩 페이지</th>
+    </tr>
+    <tr>
+        <td style="padding: 0; margin: 0; width: 100%;">
+            <img src="https://github.com/user-attachments/assets/ef079fa4-ad00-4424-a87f-b782ee6e8753" alt="온보딩 페이지 이미지" width="1000">
+        </td>
+    </tr>
+    <tr>
+        <th style="text-align: center; padding: 0; margin: 0;">강의자료 요약페이지</th>
+    </tr>
+    <tr>
+        <td style="padding: 0; margin: 0; width: 100%;">
+            <img src="https://github.com/user-attachments/assets/66a8f8af-1b3d-4d13-9e74-d3a3e0c9643a" alt="강의자료 요약페이지 이미지" width="1000">
+        </td>
+    </tr>
+    <tr>
+        <th style="text-align: center; padding: 0; margin: 0;">문제생성 및 오답노트 페이지</th>
+    </tr>
+    <tr>
+        <td style="padding: 0; margin: 0; width: 100%;">
+            <img src="https://github.com/user-attachments/assets/ead6caeb-ebf7-4826-8132-6b5690f56bd7" alt="문제생성 및 오답노트 페이지 이미지" width="1000">
+        </td>
+    </tr>
+</table>
 
 ## 🏢 System Architechture
 <img src="https://github.com/user-attachments/assets/22030b8c-168c-4570-be5d-d617c2a9c39d">
@@ -63,46 +95,158 @@
 
 </br>
 
-## 🛠 **Backend 주요 기술**  
+## 💌 How to Start
+### Backend 
+```
+git clone --recursive https://github.com/2024-Winter-BootCamp-TeamF/Backend.git
+```
+### env setting in the Backend folder
+* backend/.env
+```
+MYSQL_DATABASE=
+MYSQL_USER=
+MYSQL_PASSWORD=
+MYSQL_ROOT_PASSWORD=
+OpenAI_API_Key=
+REDIS_HOST=
+REDIS_PORT=
+PINECONE_ENVIRONMENT=
+PINECONE_API_KEY=
+PINECONE_INDEX_NAME=
+RABBITMQ_DEFAULT_USER=
+RABBITMQ_DEFAULT_PASS=
+CELERY_BROKER_API_URL=
+CELERY_BROKER_URL=
 
-### 🎯 Django & Django REST Framework  
-- 강의자료 업로드 및 텍스트 추출  
-- Summary 및 문제 생성 API  
-- Redis/Pinecone과 데이터 연동  
-- OpenAI API 호출 및 데이터 처리  
+```
+### Run Docker
+```
+docker compose up --build
+```
+### Frontend
+```
+git clone --recursive https://github.com/2024-Winter-BootCamp-TeamF/Frontend.git
+```
+### Install
+```
+npm install
+```
 
-### 🔄 **RabbitMQ & Celery** (비동기 처리)  
-| **작업** | **처리 방식** |
-|----------|--------------------------------------|
-| **Pinecone 벡터 데이터 저장** | Redis에서 데이터를 가져와 벡터화 후 Pinecone 저장 |
-| **요약 생성** | OpenAI API를 사용하여 Summary 생성 |
-| **문제 생성 & 해설** | 기출문제 분석 후 유사 문제 + 해설 생성 |
+### Run
+```
+npm start
+```
+</br>
 
-### ⚡ **Redis** (캐싱 & 임시 저장)  
-- 강의자료(PDF)에서 추출한 텍스트 데이터 저장  
-- 빠른 조회 및 AI 연산 속도 향상  
 
-### 🔍 **Pinecone** (벡터 데이터베이스)  
-- 강의자료에서 추출한 텍스트 임베딩 저장  
-- Topic 기반 연습문제 추천 및 유사 문제 검색  
-
-### 🧠 **ChatGPT (OpenAI API)**  
-| **기능** | **설명** |
-|---------|---------|
-| **강의자료 요약** | Topic별 핵심 내용 요약 |
-| **연습문제 생성** | 강의자료 기반 맞춤형 문제 생성 |
-| **오답 분석 & 추가 학습** | 틀린 문제 해설 및 유사 문제 제공 |
 
 ---
 
-## 🚀 **DevOps & Monitoring**  
+## 👪 Member
+<table width="100%" align="center" style="border-collapse: collapse; text-align: center;">
+<thead>
+<tr>
+<th>Pictures</th>
+<td width="100" align="center">
+<a href="https://github.com/woohyun23">
+<img src="https://github.com/user-attachments/assets/3aa7adfd-e3e5-418e-b2dc-a03c2ece2ddc" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/JJeonJong">
+<img src="https://github.com/user-attachments/assets/ea67f57f-6ae3-4762-9c36-1a13c8f60ae3" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/qsc6543">
+<img src="https://github.com/user-attachments/assets/831ef8d1-0674-42dd-88ac-dd2cb2eb90ae" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/yuripbong">
+<img src="https://github.com/user-attachments/assets/fe0ef924-14f9-41ac-bd15-8d05e315be52" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/victor8687">
+<img src="https://github.com/user-attachments/assets/a35cbd41-8faf-41d4-aea1-6c4fb87580d7" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/Hyochan02">
+<img src="https://github.com/user-attachments/assets/d44656b4-71aa-4af4-911c-9ff79f2da479" width="60" height="60">
+</a>
+</td>
+</tr>
+<tr>
+<th>Name</th>
+<td width="100" align="center">박우현</td>
+<td width="100" align="center">전종찬</td>
+<td width="100" align="center">김종연</td>
+<td width="100" align="center">권유리</td>
+<td width="100" align="center">김주용</td>
+<td width="100" align="center">진효찬</td>
+</tr>
+<tr>
+<th>Position</th>
+<td width="150" align="center">
+Leader<br>
+Frontend<br>
+DevOps<br>
+</td>
+<td width="150" align="center">
+Backend<br>
+DevOps<br>
+</td>
+<td width="150" align="center">
+Backend<br>
+</td>
+<td width="150" align="center">
+Backend<br>
+</td>
+<td width="150" align="center">
+Frontend<br>
+UI/UX <br>
+</td>
+<td width="150" align="center">
+Frontend<br>
+UI/UX <br>
+</td>
+</tr>
+<tr>
+<th>GitHub</th>
+<td width="100" align="center">
+<a href="https://github.com/woohyun23">
+<img src="http://img.shields.io/badge/woohyun23-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/JJeonJong">
+<img src="http://img.shields.io/badge/JJeonJong-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/qsc6543">
+<img src="http://img.shields.io/badge/qsc6543-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/yuripbong">
+<img src="http://img.shields.io/badge/yuripbong-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/victor8687">
+<img src="http://img.shields.io/badge/victor8687-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/Hyochan02">
+<img src="http://img.shields.io/badge/Hyochan02-green?style=social&logo=github"/>
+</a>
+</td>
+</tr>
+</thead>
+</table>
 
-| **Tool** | **설명** |
-|---------|--------------------------------------|
-| **Docker** | 컨테이너화 및 배포 자동화 |
-| **Jenkins** | CI/CD 파이프라인 구축, EC2 자동 배포 |
-| **Prometheus & Grafana** | 서버 리소스 모니터링 (CPU, 메모리, 네트워크) |
-| **cAdvisor** | Docker 컨테이너 모니터링 |
-| **Slack Manager** | 이상 현상 감지 및 Slack 알림 |
-
----
+</br>
