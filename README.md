@@ -1,9 +1,10 @@
-### <p align = center>2024 Techeer Summer BootCamp <p>
+### <p align = center>2024 Techeer Winter BootCamp <p>
+# 💫 내 교수님은 AI 💫
 <div align=center>
 <br> <image width=50%, height=50%, src="https://github.com/user-attachments/assets/5ff84715-be63-4074-b8ba-93731645ae5b">
 
 
-<br>💫 내 교수님은 AI 💫
+
 ##### URL : https://
 </div>
 
