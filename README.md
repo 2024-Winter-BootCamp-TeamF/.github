@@ -111,11 +111,11 @@ https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90
 ---
 
 # 💌 How to Start
-## Backend 
+### Backend 
 ```
 git clone --recursive https://github.com/2024-Winter-BootCamp-TeamF/Backend.git
 ```
-## env setting in the Backend folder
+### env setting in the Backend folder
 * backend/.env
 ```
 MYSQL_DATABASE=
