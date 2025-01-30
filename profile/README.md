@@ -34,7 +34,7 @@ https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90
     </tr>
     <tr>
         <td style="padding: 0; margin: 0; width: 100%;">
-            <img src="https://github.com/user-attachments/assets/ef079fa4-ad00-4424-a87f-b782ee6e8753" alt="온보딩 페이지 이미지" width="1000">
+            <img src="https://github.com/user-attachments/assets/d49001ba-a13c-4cf6-a459-8a5febffd716" alt="온보딩 페이지 이미지" width="1000">
         </td>
     </tr>
     <tr>
@@ -42,7 +42,7 @@ https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90
     </tr>
     <tr>
         <td style="padding: 0; margin: 0; width: 100%;">
-            <img src="https://github.com/user-attachments/assets/66a8f8af-1b3d-4d13-9e74-d3a3e0c9643a" alt="강의자료 요약페이지 이미지" width="1000">
+            <img src="https://github.com/user-attachments/assets/0a150a73-442d-4ae1-a80a-c2c113a1f6e9" alt="강의자료 요약페이지 이미지" width="1000">
         </td>
     </tr>
     <tr>
@@ -50,7 +50,7 @@ https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90
     </tr>
     <tr>
         <td style="padding: 0; margin: 0; width: 100%;">
-            <img src="https://github.com/user-attachments/assets/ead6caeb-ebf7-4826-8132-6b5690f56bd7" alt="문제생성 및 오답노트 페이지 이미지" width="1000">
+            <img src="https://github.com/user-attachments/assets/7593b831-4f1b-402c-9bec-afc8141affc7" alt="문제생성 및 오답노트 페이지 이미지" width="1000">
         </td>
     </tr>
 </table>
