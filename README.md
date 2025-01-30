@@ -110,8 +110,50 @@ https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90
 
 ---
 
-## 📌 Github Repository
-🔗 **[GitHub Repository 링크](https://github.com/your-repository)**
+## 💌 How to Start
+### Backend 
+```
+git clone --recursive https://github.com/2024-Winter-BootCamp-TeamF/Backend.git
+```
+### env setting in the Backend folder
+* backend/.env
+```
+MYSQL_DATABASE=
+MYSQL_USER=
+MYSQL_PASSWORD=
+MYSQL_ROOT_PASSWORD=
+OpenAI_API_Key=
+REDIS_HOST=
+REDIS_PORT=
+PINECONE_ENVIRONMENT=
+PINECONE_API_KEY=
+PINECONE_INDEX_NAME=
+RABBITMQ_DEFAULT_USER=
+RABBITMQ_DEFAULT_PASS=
+CELERY_BROKER_API_URL=
+CELERY_BROKER_URL=
+
+```
+### Run Docker
+```
+docker compose up --build
+```
+### Frontend
+```
+git clone --recursive https://github.com/2024-Winter-BootCamp-TeamF/Frontend.git
+```
+### Install
+```
+npm install
+```
+
+### Run
+```
+npm start
+```
+</br>
+
+
 
 ---
 
