@@ -26,20 +26,42 @@
 
 ---
 
-## 🏗 **System Architecture**  
+## 🏢 System Architechture
+<img src="https://github.com/user-attachments/assets/22030b8c-168c-4570-be5d-d617c2a9c39d">
 
-### 🖥 **Tech Stack**  
+</br>
 
-| **Category** | **Tech** |
-|-------------|---------|
-| **Frontend** | React |
-| **Backend** | Django (Django REST Framework) |
-| **Database** | MySQL, Redis, Pinecone |
-| **Queue & Worker** | RabbitMQ, Celery |
-| **AI Integration** | OpenAI API |
-| **DevOps** | Docker, Jenkins, Prometheus, Grafana |
+## 🗺️ ERD
+<img src="https://github.com/user-attachments/assets/3cfdabce-4ba9-4aa0-829d-c190d22b22d5">
 
----
+</br>
+
+## 💻 Tech Stack
+
+|**분야**|**사용기술**|
+|:-------------------:|:---------:|
+|<b>Frontend</b>|<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=black">|
+|<b>Backend</b>|<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"> <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"/> <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"> <img src="https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/channels-092E20?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Daphne-009639?style=for-the-badge&logo=&logoColor=white">|
+|<b>DevOps</b>| <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-2088FF?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">|
+|<b>Monitoring</b>|<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"> <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/cadvisor-2196F3?style=for-the-badge&logo=cadvisor&logoColor=white"> <img src="https://img.shields.io/badge/Node Exporter-4CAF50?style=for-the-badge&logo=Node Exporter&logoColor=white">|
+|<b>etc</b>|<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white"> <br> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="icon" /> <img src="https://img.shields.io/badge/pycharm-D9411E?style=for-the-badge&logo=pycharm&logoColor=white" alt="icon" />|
+
+</br>
+
+## 📄 API 
+<img src="https://github.com/user-attachments/assets/ac4137eb-255c-440a-bd46-56dc1a0c6b6d">
+
+</br>
+
+## 🪐 Flow Chart
+<img src="https://github.com/user-attachments/assets/c6590de5-ad2a-461b-a526-ed08689560c8">
+
+</br>
+
+## 📊 Sequence Diagram
+<img src="https://github.com/user-attachments/assets/f60ba003-ca2b-4e2b-8e64-8b827e32b249">
+
+</br>
 
 ## 🛠 **Backend 주요 기술**  
 
