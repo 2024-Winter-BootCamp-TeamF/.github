@@ -6,7 +6,7 @@
 ##### URL : https://
 </div>
 
-## 🔮 Table of Contents
+## 🌊 Table of Contents
 - [Medium](#-Medium)
 - [Demo](#-Demo)
 - [System Architechture](#-System-Architechture)
