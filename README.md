@@ -7,7 +7,7 @@
 ##### URL : https://
 </div>
 
-## 🔮 Table of Contents
+# 🔮 Table of Contents
 - [Medium](#-Medium)
 - [Demo](#-Demo)
 - [System Architechture](#-System-Architechture)
@@ -25,11 +25,11 @@
 
 
 
-## 📝 Medium 
+# 📝 Medium 
 https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90%EC%88%98%EB%8B%98%EC%9D%80-ai-9a2b7d62be91
 </br>
 
-## ✨ Demo
+# ✨ Demo
 
 <table width="1000">
     <tr>
@@ -58,13 +58,13 @@ https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90
     </tr>
 </table>
 
-## 🏗️ System Architecture
+# 🏗️ System Architecture
 
-### 🌐 Frontend
-- **React**
+## 🌐 Frontend
+### React
 
-### ⚙️ Backend
-- **Django**
+## ⚙️ Backend
+### 🐎 Django
 - 빠른 REST API 개발을 위해 **Django REST Framework** 사용
 - 강의자료 **PDF 업로드, 텍스트 추출, Summary 생성, 문제 생성** 기능 개발
 - 사용자 데이터는 **Redis 및 Pinecone**에 저장하며, **OpenAI API**와 상호작용
@@ -93,7 +93,7 @@ https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90
 
 ---
 
-## 🔧 DevOps
+# 🔧 DevOps
 
 ### 🐳 Docker
 - **컨테이너화**를 통해 개발 환경 일관성 유지
@@ -110,12 +110,12 @@ https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90
 
 ---
 
-## 💌 How to Start
-### Backend 
+# 💌 How to Start
+## Backend 
 ```
 git clone --recursive https://github.com/2024-Winter-BootCamp-TeamF/Backend.git
 ```
-### env setting in the Backend folder
+## env setting in the Backend folder
 * backend/.env
 ```
 MYSQL_DATABASE=
@@ -157,7 +157,7 @@ npm start
 
 ---
 
-## 👪 Member
+# 👪 Member
 <table width="100%" align="center" style="border-collapse: collapse; text-align: center;">
 <thead>
 <tr>
