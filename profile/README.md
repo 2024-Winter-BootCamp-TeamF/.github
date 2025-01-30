@@ -17,7 +17,6 @@
 - [Flow Chart](#-Flow-Chart)
 - [Sequence Diagram](#-Sequence-Diagram)
 - [Monitoring](#-Monitoring)
-- [Directory Structure](#-Directory-Structure)
 - [How to Start](#-How-to-Start)
 - [Member](#-Member)
 
