@@ -1,4 +1,4 @@
-# 🎓 내 교수님은 AI
+ 🎓 내 교수님은 AI
 
 > **2024.12.27 ~ 2025.02.01**
 
@@ -75,4 +75,109 @@
 
 ---
 
-✨ **내 교수님은 AI**를 통해 학습을 보다 **효율적이고 스마트하게!** 🚀
+## 👪 Member
+<table width="100%" align="center" style="border-collapse: collapse; text-align: center;">
+<thead>
+<tr>
+<th>Pictures</th>
+<td width="100" align="center">
+<a href="https://github.com/woohyun23">
+<img src="https://github.com/user-attachments/assets/3aa7adfd-e3e5-418e-b2dc-a03c2ece2ddc" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/JJeonJong">
+<img src="https://github.com/user-attachments/assets/ea67f57f-6ae3-4762-9c36-1a13c8f60ae3" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/qsc6543">
+<img src="https://github.com/user-attachments/assets/831ef8d1-0674-42dd-88ac-dd2cb2eb90ae" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/yuripbong">
+<img src="https://github.com/user-attachments/assets/fe0ef924-14f9-41ac-bd15-8d05e315be52" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/Hyochan02">
+<img src="https://github.com/user-attachments/assets/a35cbd41-8faf-41d4-aea1-6c4fb87580d7" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/victor8687">
+<img src="https://github.com/user-attachments/assets/d44656b4-71aa-4af4-911c-9ff79f2da479" width="60" height="60">
+</a>
+</td>
+</tr>
+<tr>
+<th>Name</th>
+<td width="100" align="center">박우현</td>
+<td width="100" align="center">전종찬</td>
+<td width="100" align="center">김종연</td>
+<td width="100" align="center">권유리</td>
+<td width="100" align="center">김주용</td>
+<td width="100" align="center">진효찬</td>
+</tr>
+<tr>
+<th>Position</th>
+<td width="150" align="center">
+Leader<br>
+Frontend<br>
+DevOps<br>
+</td>
+<td width="150" align="center">
+Backend<br>
+DevOps<br>
+</td>
+<td width="150" align="center">
+Backend<br>
+</td>
+<td width="150" align="center">
+Backend<br>
+</td>
+<td width="150" align="center">
+Frontend<br>
+</td>
+<td width="150" align="center">
+Frontend<br>
+</td>
+</tr>
+<tr>
+<th>GitHub</th>
+<td width="100" align="center">
+<a href="https://github.com/woohyun23">
+<img src="http://img.shields.io/badge/woohyun23-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/JJeonJong">
+<img src="http://img.shields.io/badge/JJeonJong-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/qsc6543">
+<img src="http://img.shields.io/badge/qsc6543-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/yuripbong">
+<img src="http://img.shields.io/badge/yuripbong-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/victor8687">
+<img src="http://img.shields.io/badge/victor8687-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/Hyochan02">
+<img src="http://img.shields.io/badge/Hyochan02-green?style=social&logo=github"/>
+</a>
+</td>
+</tr>
+</thead>
+</table>
+
+</br>
