@@ -1,4 +1,4 @@
-### <p align = center>2024 Techeer Winter BootCamp<p>
+**<p align = center>2024 Techeer Winter BootCamp<p>**
 # <p align = center>💫 내 교수님은 AI 💫<p>
 
 <div align=center>
@@ -6,7 +6,7 @@
 ##### URL : https://
 </div>
 
-# 🔮 Table of Contents
+## 🔮 Table of Contents
 - [Medium](#-Medium)
 - [Demo](#-Demo)
 - [System Architechture](#-System-Architechture)
@@ -21,11 +21,11 @@
 
 
 
-# 📝 Medium 
+## 📝 Medium 
 https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90%EC%88%98%EB%8B%98%EC%9D%80-ai-9a2b7d62be91
 </br>
 
-# ✨ Demo
+## ✨ Demo
 
 <table width="1000">
     <tr>
@@ -54,17 +54,17 @@ https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90
     </tr>
 </table>
 
-# 🏢 System Architechture
+## 🏢 System Architechture
 <img src="https://github.com/user-attachments/assets/22030b8c-168c-4570-be5d-d617c2a9c39d">
 
 </br>
 
-# 🗺️ ERD
+## 🗺️ ERD
 <img src="https://github.com/user-attachments/assets/3cfdabce-4ba9-4aa0-829d-c190d22b22d5">
 
 </br>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 |**분야**|**사용기술**|
 |:-------------------:|:---------:|
@@ -76,22 +76,22 @@ https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90
 
 </br>
 
-# 📄 API 
+## 📄 API 
 <img src="https://github.com/user-attachments/assets/ac4137eb-255c-440a-bd46-56dc1a0c6b6d">
 
 </br>
 
-# 🪐 Flow Chart
+## 🪐 Flow Chart
 <img src="https://github.com/user-attachments/assets/c6590de5-ad2a-461b-a526-ed08689560c8">
 
 </br>
 
-# 📊 Sequence Diagram
+## 📊 Sequence Diagram
 <img src="https://github.com/user-attachments/assets/f60ba003-ca2b-4e2b-8e64-8b827e32b249">
 
 </br>
 
-# 💌 How to Start
+## 💌 How to Start
 ### Backend 
 ```
 git clone --recursive https://github.com/2024-Winter-BootCamp-TeamF/Backend.git
