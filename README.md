@@ -1,22 +1,62 @@
- 🎓 내 교수님은 AI
+### <p align = center>2024 Techeer Summer BootCamp <p>
+<div align=center>
+<br> <image width=50%, height=50%, src="https://github.com/user-attachments/assets/5ff84715-be63-4074-b8ba-93731645ae5b">
 
-> **2024.12.27 ~ 2025.02.01**
 
-📌 **2024 Techeer SiliconValley Winter Bootcamp**에서 개발된 **"내 교수님은 AI"**는 클라이언트의 강의 자료를 바탕으로 학습에 도움이 되는 기능을 제공하는 웹 서비스입니다. 사용자는 맞춤형 학습을 통해 **요약 생성, 연습문제 제작, 해설 제공**을 받을 수 있으며, 즉각적인 피드백과 추가 학습 자료를 통해 더욱 효과적인 학습이 가능합니다.
+<br>💫 내 교수님은 AI 💫
+##### URL : https://
+</div>
 
----
+## 🔮 Table of Contents
+- [Medium](#-Medium)
+- [Demo](#-Demo)
+- [System Architechture](#-System-Architechture)
+- [Tech stack](#-Tech-stack)
+- [ERD](#-Erd)
+- [MongoDB](#-MongoDB)
+- [API](#-API)
+- [Flow Chart](#-Flow-Chart)
+- [Sequence Diagram](#-Sequence-Diagram)
+- [Monitoring](#-Monitoring)
+- [File Directory](#-file-directory)
+- [Directory Structure](#-Directory-Structure)
+- [How to Start](#-How-to-Start)
+- [Member](#-Member)
 
-## 🚀 Demo
 
-### 🎉 온보딩 페이지
-### 📂 강의자료 업로드 및 요약본 생성 페이지
-- 업로드한 파일에서 **지정한 토픽** 기반으로 요약본 생성
 
-### 📝 문제 생성, 채점, 해설 페이지
-- 예시 문제 파일을 업로드하면 **비슷한 유형의 문제** 제공
-- 문제를 다 푼 후 **틀린 문제에 대한 오답노트 생성**
+## 📝 Medium 
+https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90%EC%88%98%EB%8B%98%EC%9D%80-ai-9a2b7d62be91
+</br>
 
----
+## ✨ Demo
+
+<table width="1000">
+    <tr>
+        <th style="text-align: center; padding: 0; margin: 0;">온보딩 페이지</th>
+    </tr>
+    <tr>
+        <td style="padding: 0; margin: 0; width: 100%;">
+            <img src="https://github.com/user-attachments/assets/ef079fa4-ad00-4424-a87f-b782ee6e8753" alt="온보딩 페이지 이미지" width="1000">
+        </td>
+    </tr>
+    <tr>
+        <th style="text-align: center; padding: 0; margin: 0;">강의자료 요약페이지</th>
+    </tr>
+    <tr>
+        <td style="padding: 0; margin: 0; width: 100%;">
+            <img src="https://github.com/user-attachments/assets/66a8f8af-1b3d-4d13-9e74-d3a3e0c9643a" alt="강의자료 요약페이지 이미지" width="1000">
+        </td>
+    </tr>
+    <tr>
+        <th style="text-align: center; padding: 0; margin: 0;">문제생성 및 오답노트 페이지</th>
+    </tr>
+    <tr>
+        <td style="padding: 0; margin: 0; width: 100%;">
+            <img src="https://github.com/user-attachments/assets/ead6caeb-ebf7-4826-8132-6b5690f56bd7" alt="문제생성 및 오답노트 페이지 이미지" width="1000">
+        </td>
+    </tr>
+</table>
 
 ## 🏗️ System Architecture
 
