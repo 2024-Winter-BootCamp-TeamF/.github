@@ -139,9 +139,11 @@ Backend<br>
 </td>
 <td width="150" align="center">
 Frontend<br>
+UI/UX <br>
 </td>
 <td width="150" align="center">
 Frontend<br>
+UI/UX <br>
 </td>
 </tr>
 <tr>
