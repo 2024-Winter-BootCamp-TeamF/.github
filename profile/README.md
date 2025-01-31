@@ -42,7 +42,7 @@ https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90
     </tr>
     <tr>
         <td style="padding: 0; margin: 0; width: 100%;">
-            <img src="https://github.com/user-attachments/assets/5e2aeb07-96d4-4cbf-8b3c-982afbcdd4e7" alt="강의자료 요약페이지 이미지" width="1000">
+            <img src="https://github.com/user-attachments/assets/8da71b09-f31b-40e9-985a-15fd42ebcb10" alt="강의자료 요약페이지 이미지" width="1000">
         </td>
     </tr>
     <tr>
