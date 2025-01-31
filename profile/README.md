@@ -80,10 +80,7 @@ https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90
 ## 📄 API 
 <img src="https://github.com/user-attachments/assets/ac4137eb-255c-440a-bd46-56dc1a0c6b6d">
 
-</br>
 
-## 🪐 Flow Chart
-<img src="https://github.com/user-attachments/assets/c6590de5-ad2a-461b-a526-ed08689560c8">
 
 </br>
 
