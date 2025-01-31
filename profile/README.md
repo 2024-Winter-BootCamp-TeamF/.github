@@ -88,7 +88,7 @@ https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90
 </br>
 
 ## 📊 Sequence Diagram
-<img src="https://github.com/user-attachments/assets/f60ba003-ca2b-4e2b-8e64-8b827e32b249">
+<img src="https://github.com/user-attachments/assets/92b954ae-4d26-42b9-8beb-c6b1b1d348a2">
 
 </br>
 
