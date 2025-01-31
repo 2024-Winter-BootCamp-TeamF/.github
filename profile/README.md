@@ -50,7 +50,7 @@ https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90
     </tr>
     <tr>
         <td style="padding: 0; margin: 0; width: 100%;">
-            <img src="![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/353ebd6d-7e03-4bb4-95a4-41476d05ac1f)" alt="문제생성 및 오답노트 페이지 이미지" width="1000">
+            <img src=![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/353ebd6d-7e03-4bb4-95a4-41476d05ac1f) alt="문제생성 및 오답노트 페이지 이미지" width="1000">
         </td>
     </tr>
 </table>
