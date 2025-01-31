@@ -4,7 +4,7 @@
 <div align=center>
 <br> <image width=50%, height=50%, src="https://github.com/user-attachments/assets/5ff84715-be63-4074-b8ba-93731645ae5b">
 
- #### URL : https://
+ #### URL : https://www.aiprofessor.store
 </div>
 
 ## 🌊 Table of Contents
@@ -42,7 +42,7 @@ https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90
     </tr>
     <tr>
         <td style="padding: 0; margin: 0; width: 100%;">
-            <img src="https://github.com/user-attachments/assets/0a150a73-442d-4ae1-a80a-c2c113a1f6e9" alt="강의자료 요약페이지 이미지" width="1000">
+            <img src="https://github.com/user-attachments/assets/5e2aeb07-96d4-4cbf-8b3c-982afbcdd4e7" alt="강의자료 요약페이지 이미지" width="1000">
         </td>
     </tr>
     <tr>
@@ -50,7 +50,7 @@ https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90
     </tr>
     <tr>
         <td style="padding: 0; margin: 0; width: 100%;">
-            <img src="https://github.com/user-attachments/assets/353ebd6d-7e03-4bb4-95a4-41476d05ac1f" alt="문제생성 및 오답노트 페이지 이미지" width="1000">
+            <img src="https://github.com/user-attachments/assets/e6347762-3e62-4554-83d1-16cc67b90dd4" alt="문제생성 및 오답노트 페이지 이미지" width="1000">
         </td>
     </tr>
 </table>
