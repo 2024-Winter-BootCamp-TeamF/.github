@@ -56,7 +56,7 @@ https://medium.com/@parkwh0823/siliconvalley-summer-bootcamp-%EB%82%B4-%EA%B5%90
 </table>
 
 ## 🏢 System Architechture
-<img src="https://github.com/user-attachments/assets/22030b8c-168c-4570-be5d-d617c2a9c39d">
+<img src="https://github.com/user-attachments/assets/93484565-696f-4274-b5a8-0c25ee3ea853">
 
 </br>
 
